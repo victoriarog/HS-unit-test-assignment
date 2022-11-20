@@ -20,7 +20,7 @@ Tip: you can run `npm run test:unit Todo` to run the tests for this component in
 
 ## Level 1
 
-Use **TDD** (Test Driven Development) to build this component that loads asynchronous data using fetch using the `onMounted` hook.
+Use **TDD** (Test Driven Development) to build this component that loads asynchronous data using fetch on its `onMounted` hook.
 
 Tip: you can run `npm run test:unit OnMounted` to run the tests for this component in isolation.
 
