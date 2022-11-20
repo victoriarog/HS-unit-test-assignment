@@ -1,4 +1,6 @@
-# HS Unit Test Assignment
+# Assignment: Unit Tests & TDD
+
+https://github.com/danii-nebot/HS-unit-test-assignment
 
 Fork this repository, then clone it in your local development environment and work your way through the levels.
 
